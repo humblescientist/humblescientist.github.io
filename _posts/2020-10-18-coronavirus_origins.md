@@ -1,9 +1,5 @@
-+++
-title = "Coronavirus origins"
-description = "Compilation of significant events in the history of Covid-19."
-date = 2020-10-17T02:13:50Z
-author = "Humble Scientist"
-+++
+# Coronavirus origins
+
 
 ## Background
 

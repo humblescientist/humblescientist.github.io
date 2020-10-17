@@ -1,5 +1,6 @@
 # Random Science
 
-A blog about coronavirus, infosec and deeplearning
+Compilation of significant events in the history of Covid-19.
+
 
 
