@@ -26,11 +26,31 @@ The only P4 (high security lab) in China is in Wuhan (two in Taiwan), and is loc
 
 ## Chronology
 
-### Pre-Covid-19 outbreak
+### SARS
+
+Several papers discussing coronaviruses and SARS are outlined below. Note that chimeric fusion experiments were carried out in multiple labs worldwide (including the WIV)
+
+December 2006 [Review of Bats and SARS](https://wwwnc.cdc.gov/eid/article/12/12/pdfs/06-0401.pdf) by Wang, L-F et al. (incl. Zhengli Shi). The authors discuss the role of civets in transmission of SARS-C0V to humans and "sequence analyses indicated the existence of a much greater genetic diversity of SARS-like–CoVs in bats than of SARS-CoVs in civets or humans, which supports the notion that SARS-CoV is a member of this novel coronavirus group and that bats are a natural reservoir for it.". Furthermore "For the SARS-like–CoVs to infect humans, substantial genetic changes in the S1 receptor-binding domain will be necessary."
+
+2007 [Bats, Civets and the Emergence of SARS](https://pubmed.ncbi.nlm.nih.gov/17848070/) by Wang, L.F. and Eaton, B.T.
+
+18th August 2008 [Synthetic recombinant bat SARS-like coronavirus is infectious in cultured cells and in mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2588415/pdf/zpq19944.pdf) by Becker M. et al. The authors show a method to replace an RBD in a bat coronavirus with a SARS RBD to test a possible route of emergence to humans.
+
+February 2008 [Difference in Receptor Usage between Severe Acute Respiratory Syndrome (SARS) Coronavirus and SARS-Like Coronavirus of Bat Origin](https://jvi.asm.org/content/jvi/82/4/1899.full.pdf) by Ren W. et al. (incl. Zhengli Shi). the authors modify the S protein of SL-CoV by replacing the RBD with that from the SARS-CoV S to show the hybrid protein was able to use the huACE2 for cell entry.
+
+21st April 2010 [Angiotensin-converting enzyme 2 (ACE2) proteins of different bat species confer variable susceptibility to SARS-CoV entry](https://pubmed.ncbi.nlm.nih.gov/20567988/) by Hou, Y. et al. (incl Zhengli Shi). The authors undertook chimeric ACE2 construction, conbining "the N-terminal region of bat ACE2 with the C-terminal portion of human ACE2"
+
+April 2013 [Structural Analysis of the Evolutionary Origins of Influenza Virus Hemagglutinin and Other Viral Lectins](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3624229/pdf/zjv4118.pdf) by Chen, L. and Li, F. The autors propose that "viral lectins originated from an ancient host lectin and have since diverged in their sugar-binding mechanisms" and "viral lectins need to hide their sugar-binding sites from host immune attacks."
+
+29 August 2013 [Receptor recognition and cross-species infections of SARS coronavirus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3840050/pdf/main.pdf) by Fang Li. This paper includes a good description of coronaviruses, and SARS-CoV. "SARS-CoV infects a wide variety of animal species, including humans, palm civets, monkeys, domestic cats, ferrets, hamsters, raccoon dogs, and bats. It is believed that bats harbor the precursors of SARS-CoV and thus are the natural reservoir for the virus. In addition, palm civets played a key role in the spread of SARS-CoV to humans and thus were the interim reservoir or amplifying host for the virus"."The binding interactions between SARS-CoV RBD and ACE2 largely determine the host range and cross-species infections of SARS-CoV and hence are the focus of this review"
 
 30th October 2013 [Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor](https://www.nature.com/articles/nature12711), Xing-Yi Ge et al. (incl. Zheng-Li Shi). "Here we report whole-genome sequences of two novel bat coronaviruses from Chinese horseshoe bats (family: Rhinolophidae) in Yunnan, China: RsSHC014 and Rs3367. These viruses are far more closely related to SARS-CoV than any previously identified bat coronaviruses, particularly in the receptor binding domain of the spike protein. Most importantly, we report the first recorded isolation of a live SL-CoV (bat SL-CoV-WIV1) from bat faecal samples in Vero E6 cells, which has typical coronavirus morphology, 99.9% sequence identity to Rs3367 and uses ACE2 from humans, civets and Chinese horseshoe bats for cell entry."
 
+### WIV pre Covid-19 outbreak
+
 End 2014. [Wuhan Institute of Virology](https://en.wikipedia.org/wiki/Wuhan_Institute_of_Virology), [(WIV)](https://www.nature.com/news/inside-the-chinese-lab-poised-to-study-world-s-most-dangerous-pathogens-1.21487) , mainland China's first biosafety level 4 (BSL–4) laboratory opened. Located in Jiangxia District, Wuhan, Hubei, the institute has been an active research center for the study of coronaviruses, and is a world leader in their study. 
+
+2015 [Bat origin of human coronaviruses](https://virologyj.biomedcentral.com/track/pdf/10.1186/s12985-015-0422-1) by Hu et al. (incl. Zhengli Shi)
 
 February 2016. [Coexistence of multiple coronaviruses in several bat colonies in an abandoned mineshaft](https://www.virosin.org/fileZGBDX/journal/article/vs/2016/1/PDF/VS12250-016-3713-9.pdf) paper published by Dr. Shi Zhengli's team. This paper includes details of the RaBtCoV/4991 betacoronavirus sequence. Only a 440-bp segment of RdRp of the RaBtCoV/4991 coronavirus was sequenced, and the genome was not published. 
 
@@ -140,7 +160,17 @@ That the CoVZXC21 and CoVZC45 were discovered and controlled by the Chinese mili
 
 Significant anomalies as to the Covid-19 geonome have been raised by Yan. L. et al. "SARS-CoV-2 Is an Unrestricted Bioweapon", Segreto. R. and Deigin, Y. "Is considering a genetic-manipulation origin for SARS-CoV-2 a conspiracy theory that must be censored?" and "Nerd". "Scientific evidence and logic behind the claim that the Wuhan coronavirus is man-made". 
 
+The Zhengli Shi's team at the WIV was actively engaged in [chimeric fusion experiments](https://jvi.asm.org/content/jvi/82/4/1899.full.pdf) where they created pesudoviruses by replacing the RBD of a the S protein of a bat coronavirus SL-CoV by with that from the SARS-CoV Spike protein RBD to show the hybrid protein was able to use the hACE2 for cell entry.
+
+### Final Conclusions
+
+Given the highly coincidental location of the WIV within a few kileters of the suspected epicentre the breakout, that the WIV was actively engaged in collection, study and genetic maipulation of bat coronaviruses, the anomalous nature of the RaTG13 genome and questionable pangoloin virus study methodology, and PLA military ties to ZXC21 and ZC45 which appear highly correlated to the SARS-CoV-2 genome except in the important S protien areas, when combined lead me to conclude (as a working hypothesis) that the SARS-C0V-2 (Covid-19) genome was synthetically manipulated and released accidentally.
+
 In my opinion there is enough evidence to pressue scientific journals to allow the publication of investigations into a synthetic origin for Covid-19. 
+
+
+
+
 
 
 
