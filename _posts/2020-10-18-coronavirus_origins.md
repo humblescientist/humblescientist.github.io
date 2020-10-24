@@ -28,6 +28,8 @@ The only P4 (high security lab) in China is in Wuhan (two in Taiwan), and is loc
 
 ### Pre-Covid-19 outbreak
 
+30th October 2013 [Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor](https://www.nature.com/articles/nature12711), Xing-Yi Ge et al. (incl. Zheng-Li Shi). "Here we report whole-genome sequences of two novel bat coronaviruses from Chinese horseshoe bats (family: Rhinolophidae) in Yunnan, China: RsSHC014 and Rs3367. These viruses are far more closely related to SARS-CoV than any previously identified bat coronaviruses, particularly in the receptor binding domain of the spike protein. Most importantly, we report the first recorded isolation of a live SL-CoV (bat SL-CoV-WIV1) from bat faecal samples in Vero E6 cells, which has typical coronavirus morphology, 99.9% sequence identity to Rs3367 and uses ACE2 from humans, civets and Chinese horseshoe bats for cell entry."
+
 End 2014. [Wuhan Institute of Virology](https://en.wikipedia.org/wiki/Wuhan_Institute_of_Virology), [(WIV)](https://www.nature.com/news/inside-the-chinese-lab-poised-to-study-world-s-most-dangerous-pathogens-1.21487) , mainland China's first biosafety level 4 (BSL–4) laboratory opened. Located in Jiangxia District, Wuhan, Hubei, the institute has been an active research center for the study of coronaviruses, and is a world leader in their study. 
 
 February 2016. [Coexistence of multiple coronaviruses in several bat colonies in an abandoned mineshaft](https://www.virosin.org/fileZGBDX/journal/article/vs/2016/1/PDF/VS12250-016-3713-9.pdf) paper published by Dr. Shi Zhengli's team. This paper includes details of the RaBtCoV/4991 betacoronavirus sequence. Only a 440-bp segment of RdRp of the RaBtCoV/4991 coronavirus was sequenced, and the genome was not published. 
@@ -35,6 +37,8 @@ February 2016. [Coexistence of multiple coronaviruses in several bat colonies in
 30th December 2016. [Bat SARS-like coronavirus isolate Rs4084](https://www.ncbi.nlm.nih.gov/nuccore/KY417144.1) genome published by Dr. Shi Zhengli's team at the CAS Key Laboratory of Special Pathogens and Biosafety and Center for Emerging Infectious Diseases, WIV,  "Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus" Authors: Hu,B., Zeng,L.P., Yang,X.L., Ge,X.Y., Zhang,W., Li,B., Luo,D.S., Zhang,Y.Z., Wang,M.N., Daszak,P., Wang,L., Cui,J. and Shi,Z.L. 
 
 22 February 2017. [Inside the Chinese lab poised to study world's most dangerous pathogens](https://www.nature.com/news/inside-the-chinese-lab-poised-to-study-world-s-most-dangerous-pathogens-1.21487) article by Cyranoski. D. 
+
+30th November 2017. [Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006698) by Hu et al. (incl. Zheng-Li Shi). "We hypothesize that the direct progenitor of SARS-CoV may have originated after sequential recombination events between the precursors of these SARSr-CoVs. Cell entry studies demonstrated that three newly identified SARSr-CoVs with different S protein sequences are all able to use human ACE2 as the receptor, further exhibiting the close relationship between strains in this cave and SARS-CoV"
 
 5th January 2018. [Bat SARS-like coronavirus isolate bat-SL-CoVZXC21](https://www.ncbi.nlm.nih.gov/nuccore/Mg772934) and [Bat SARS-like coronavirus isolate bat-SL-CoVZC45](https://www.ncbi.nlm.nih.gov/nuccore/Mg772933) genomes published by Institute of Military Medicine Nanjing Command, Nanjing, China. Authors: Hu,D., Zhu,C., Ai,L., He,T., Wang,Y., Ye,F., Yang,L., Ding,C., Zhu,X., Lv,R., Zhu,J., Hassan,B., Feng,Y., Tan,W. and Wang,C. 
 
@@ -127,6 +131,8 @@ There are 4 coronavirus sequences most closely related to Covid-19.
 * bat-SL-CoVZC45 identified and owned by the Institute of Military Medicine Nanjing Command
 
 That the RaTG13 coronavirus genome sequence has "never been isolated or cultured" and "we have only the genome sequence" (see 31st July 2020. Reply to Science Magazine questions by Dr Shi Zhengli) raises real questions as to the validity of this genome sequence.
+
+The report [here](https://zenodo.org/record/4073131) raises questions as to the validity of the methods used in MP789 Pangolin studies. Also looking at the potential for transmission of viruses to humans, Malay Pangolins appear to be an unlikely source - 10,000 per year are illegally trapped and exported to China and Vietnam. Of those only a certain percentage will be infected [this paper](https://www.biorxiv.org/content/10.1101/2020.06.19.158717v1) did not find any evidence of coronaviruses in a 10 year study of Pangolins in Malaysia, so the percentage should be very small (any infection presumably occurred in transit).
 
 That the CoVZXC21 and CoVZC45 were discovered and controlled by the Chinese military and are relatively closely related to Covid-19 is another interesting factor to be taken into consideration when invetigating a potential synthetic origin for the virus.
 
