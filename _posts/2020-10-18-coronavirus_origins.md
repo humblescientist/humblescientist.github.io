@@ -3,7 +3,7 @@
 
 ## Background
 
-Several months ago, after I read the Nature article "A pneumonia outbreak associated with a new coronavirus of probable bat origin" by Dr. Shi Zheng-Li's team proposing RaTG13 as close reative for 2019-nCoV and their rebuttal of a synthetic origin for the virus I was pretty convinced of a natural origin for Covid-19. 
+Several months ago, after I read the Nature article "A pneumonia outbreak associated with a new coronavirus of probable bat origin" by Dr. Zheng-Li Shi's team proposing RaTG13 as close reative for 2019-nCoV and their rebuttal of a synthetic origin for the virus I was pretty convinced of a natural origin for Covid-19. 
 
 All talk I had heard discussing bioweapons labs I thought to be total garbage and ridiculous conspiracy theories. However last week I stumbled accross the blog post "Scientific evidence and logic behind the claim that the Wuhan coronavirus is man-made" by ["Nerd"](https://nerdhaspower.weebly.com/) which shows a significant depth of knowledge in virology and RNA sequencing methods. I started to research further.
 
