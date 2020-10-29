@@ -1,27 +1,27 @@
-# Coronavirus origins
+﻿# Coronavirus origins
 
 
 ## Background
 
-Several months ago, after I read the Nature article "A pneumonia outbreak associated with a new coronavirus of probable bat origin" by Dr. Zheng-Li Shi's team proposing RaTG13 as close reative for 2019-nCoV and their rebuttal of a synthetic origin for the virus I was pretty convinced of a natural origin for Covid-19. 
+Several months ago, after I read the Nature article "A pneumonia outbreak associated with a new coronavirus of probable bat origin" by Dr. Zheng-Li Shi's team proposing RaTG13 as close relative for 2019-nCoV and their rebuttal of a synthetic origin for the virus I was pretty convinced of a natural origin for Covid-19. 
 
-All talk I had heard discussing bioweapons labs I thought to be total garbage and ridiculous conspiracy theories. However last week I stumbled accross the blog post "Scientific evidence and logic behind the claim that the Wuhan coronavirus is man-made" by ["Nerd"](https://nerdhaspower.weebly.com/) which shows a significant depth of knowledge in virology and RNA sequencing methods. I started to research further.
+All talk I had heard discussing bio-weapons labs I thought to be total garbage and ridiculous conspiracy theories. However last week I stumbled across the blog post "Scientific evidence and logic behind the claim that the Wuhan coronavirus is man-made" by ["Nerd"](https://nerdhaspower.weebly.com/) which shows a significant depth of knowledge in virology and RNA sequencing methods. I started to research further.
 
-## What piqued my curisity
+## What piqued my curiosity
 
-In the blog post ["Scientific evidence and logic behind the claim that the Wuhan coronavirus is man-made"](https://nerdhaspower.weebly.com/) the author outlines the areas of similarity and difference accross the genome for two viruses isolated from the current pandemic (Wuhan-Hu-1, 2019-nCoV_USA-AZ1) against two closely related bas coronaviruses (Bat_CoV2C45, Bat_CoV2XC21,SARS) and two SARS coronaviruses (SARS_GZ02, SARS).
+In the blog post ["Scientific evidence and logic behind the claim that the Wuhan coronavirus is man-made"](https://nerdhaspower.weebly.com/) the author outlines the areas of similarity and difference across the genome for two viruses isolated from the current pandemic (Wuhan-Hu-1, 2019-nCoV_USA-AZ1) against two closely related bat coronaviruses (Bat_CoV2C45, Bat_CoV2XC21,SARS) and two SARS coronaviruses (SARS_GZ02, SARS).
 
-Several anomalies are highted and the author interprets that "The virus that SARS-CoV-2 is supposed to have evolved from looks unmistakably artificial — in sections it contains far too many “mutations” that matter but hardly any of the normal noise of silent mutations which always occur naturally alongside the mutations which change the end product. Other sections of the code which ought to mutate quickly are suspiciously identical and unchanged, and didn’t mutate at all. (In the wild there is little selective pressure on something called “E Proteins” and they vary a lot in other coronaviruses. They are already mutating fast in the pandemic but somehow were “frozen” in time in RaTG13.)"
+Several anomalies are highlighted and the author interprets that "The virus that SARS-CoV-2 is supposed to have evolved from looks unmistakably artificial — in sections it contains far too many “mutations” that matter but hardly any of the normal noise of silent mutations which always occur naturally alongside the mutations which change the end product. Other sections of the code which ought to mutate quickly are suspiciously identical and unchanged, and didn’t mutate at all. (In the wild there is little selective pressure on something called “E Proteins” and they vary a lot in other coronaviruses. They are already mutating fast in the pandemic but somehow were “frozen” in time in RaTG13.)"
 
-Wow I thought, could threre be something to this story? I have compiled a list of dates of some significant events and added references for you to do your own investinations.
+Wow I thought, could there be something to this story? I have compiled a list of dates of some significant events and added references for you to do your own investigations.
 
 ## Wuhan Institute of Virology (WIV)
 
 The only P4 (high security lab) in China is in Wuhan (two in Taiwan), and is located several hundred meters to a few kilometers (I have seen reports vary from 280m to 12km) away from the suspected outbreak [epicentre](https://www.researchgate.net/publication/338993642_A_new_coronavirus_associated_with_human_respiratory_disease_in_China) the Wuhan wet market (though the this association may have been recently [discounted](https://www.researchgate.net/publication/340924249_Is_considering_a_genetic-manipulation_origin_for_SARS-CoV-2_a_conspiracy_theory_that_must_be_censored)). Until last week I had not done any research into the WIV. 
 
-1. The WIV, mainland Chinas highest security virology lab is situated within a few kilometers of the coronavirus outbreak epicentre in the Wuhan wet market.
-2. The WIV is a leading centre for coronavirus research in China.
-3. A leading WIV virologist Dr. Zhengli Shi was the author of the a paper in 2020 claiming to have discovered the RaTG13 coronavirus in 2013, which is the most closely related coronavirus to Covid-19.
+1. The WIV, mainland China's highest security virology lab is situated within a few kilometers of the coronavirus outbreak epicenter in the Wuhan wet market.
+2. The WIV is a leading center for coronavirus research in China.
+3. A leading WIV virologist Dr. Zhengli Shi was the author of the a paper in 2020 claiming to have discovered the RaTG13 coronavirus in 2013, which is the most closely related coronavirus to SARS-CoV-2 (cause of Covid-19).
 
 
 ## Chronology
@@ -40,7 +40,7 @@ February 2008 [Difference in Receptor Usage between Severe Acute Respiratory Syn
 
 21st April 2010 [Angiotensin-converting enzyme 2 (ACE2) proteins of different bat species confer variable susceptibility to SARS-CoV entry](https://pubmed.ncbi.nlm.nih.gov/20567988/) by Hou, Y. et al. (incl Zhengli Shi). The authors undertook chimeric ACE2 construction, conbining "the N-terminal region of bat ACE2 with the C-terminal portion of human ACE2"
 
-April 2013 [Structural Analysis of the Evolutionary Origins of Influenza Virus Hemagglutinin and Other Viral Lectins](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3624229/pdf/zjv4118.pdf) by Chen, L. and Li, F. The autors propose that "viral lectins originated from an ancient host lectin and have since diverged in their sugar-binding mechanisms" and "viral lectins need to hide their sugar-binding sites from host immune attacks."
+April 2013 [Structural Analysis of the Evolutionary Origins of Influenza Virus Hemagglutinin and Other Viral Lectins](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3624229/pdf/zjv4118.pdf) by Chen, L. and Li, F. The authors propose that "viral lectins originated from an ancient host lectin and have since diverged in their sugar-binding mechanisms" and "viral lectins need to hide their sugar-binding sites from host immune attacks."
 
 29 August 2013 [Receptor recognition and cross-species infections of SARS coronavirus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3840050/pdf/main.pdf) by Fang Li. This paper includes a good description of coronaviruses, and SARS-CoV. "SARS-CoV infects a wide variety of animal species, including humans, palm civets, monkeys, domestic cats, ferrets, hamsters, raccoon dogs, and bats. It is believed that bats harbor the precursors of SARS-CoV and thus are the natural reservoir for the virus. In addition, palm civets played a key role in the spread of SARS-CoV to humans and thus were the interim reservoir or amplifying host for the virus"."The binding interactions between SARS-CoV RBD and ACE2 largely determine the host range and cross-species infections of SARS-CoV and hence are the focus of this review"
 
@@ -48,7 +48,7 @@ April 2013 [Structural Analysis of the Evolutionary Origins of Influenza Virus H
 
 ### WIV pre Covid-19 outbreak
 
-End 2014. [Wuhan Institute of Virology](https://en.wikipedia.org/wiki/Wuhan_Institute_of_Virology), [(WIV)](https://www.nature.com/news/inside-the-chinese-lab-poised-to-study-world-s-most-dangerous-pathogens-1.21487) , mainland China's first biosafety level 4 (BSL–4) laboratory opened. Located in Jiangxia District, Wuhan, Hubei, the institute has been an active research center for the study of coronaviruses, and is a world leader in their study. 
+End 2014. [Wuhan Institute of Virology](https://en.wikipedia.org/wiki/Wuhan_Institute_of_Virology), [(WIV)](https://www.nature.com/news/inside-the-chinese-lab-poised-to-study-world-s-most-dangerous-pathogens-1.21487) , mainland China's first biosafety level 4 (BSL–4) laboratory opened. Located in Jiangxia District, Wuhan, Hubei, the institute has been an active research centre for the study of coronaviruses, and is a world leader in their study. 
 
 2015 [Bat origin of human coronaviruses](https://virologyj.biomedcentral.com/track/pdf/10.1186/s12985-015-0422-1) by Hu et al. (incl. Zhengli Shi)
 
@@ -70,7 +70,7 @@ February 2016. [Coexistence of multiple coronaviruses in several bat colonies in
 
 17th November 2019. [First confirmed Covid-19 case.](https://web.archive.org/web/20200313004217/https://www.scmp.com/news/china/society/article/3074991/coronavirus-chinas-first-confirmed-covid-19-case-traced-back), [also here](https://www.msn.com/en-us/news/world/the-first-covid-19-case-originated-on-november-17-according-to-chinese-officials-searching-for-patient-zero/ar-BB119fWJ) 
 
-December 2019. [Fist (unoficial) case outside China - in Gorgan, Iran](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Iran#Early_unofficial_cases_(December%E2%80%93February))
+December 2019. [Fist (unofficial) case outside China - in Gorgan, Iran](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Iran#Early_unofficial_cases_(December%E2%80%93February))
 
 27th December 2019. Zhang Jixian, a doctor from Hubei Provincial Hospital of Integrated Chinese and Western Medicine informed China's health authorities that the infection is caused by a novel coronavirus.
 
@@ -88,7 +88,7 @@ December 2019. [Fist (unoficial) case outside China - in Gorgan, Iran](https://e
 
 12th January. Shanghai Public Health Clinical Centre [ordered to close for "rectification"](https://www.scmp.com/news/china/society/article/3052966/chinese-laboratory-first-shared-coronavirus-genome-world-ordered)
 
-27th January 2020. RaTG13 RNA sequence registerd by Dr. Zhengli Shi with the National Center for Biotechnology Information (NCBI) of the U.S. National Institutes of Health. No independent verification of the existence of RaTG13 has been made. The sample was stated to be collected in 2013 from a bat fecal sample in an abandoned mine from Mojiang in Yunnan province.
+27th January 2020. RaTG13 RNA sequence registered by Dr. Zhengli Shi with the National Center for Biotechnology Information (NCBI) of the U.S. National Institutes of Health. No independent verification of the existence of RaTG13 has been made. The sample was stated to be collected in 2013 from a bat fecal sample in an abandoned mine from Mojiang in Yunnan province.
 
 31st January 2020. [First case in Italy](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Italy) ,[also here](https://www.nydailynews.com/coronavirus/ny-coronavirus-first-cases-italy-january-much-earlier-according-study-20200424-plmph6zq4rckzckqsvbpoqiyli-story.html)
 
@@ -96,24 +96,24 @@ December 2019. [Fist (unoficial) case outside China - in Gorgan, Iran](https://e
 
 3rd February 2020. Paper ["A new coronavirus associated with human respiratory disease in China"](https://www.researchgate.net/publication/338993642_A_new_coronavirus_associated_with_human_respiratory_disease_in_China) by Wu. F. et al. The authors propose "that the virus was most closely related (89.1% nucleotide similarity) to a group of SARS-like coronaviruses (genus Betacoronavirus, subgenus Sarbecovirus) that had previously been found in bats in China" (ie the SL-CoVZC45 genome published on 5th January 2018 referenced above) 
 
-February 2020. Pre-print ["The possible origins of 2019-nCoV coronavirus"](https://img-prod.tgcom24.mediaset.it/images/2020/02/16/114720192-5eb8307f-017c-4075-a697-348628da0204.pdf) by Xiao B. (South China University of Technology) and Xiao L. (Huazhong University of Science and Technology, Wuhan) proposing a synthetic origin and the the coronavirus "probably originated from a laboratory in Wuhan." 
+February 2020. Preprint ["The possible origins of 2019-nCoV coronavirus"](https://img-prod.tgcom24.mediaset.it/images/2020/02/16/114720192-5eb8307f-017c-4075-a697-348628da0204.pdf) by Xiao B. (South China University of Technology) and Xiao L. (Huazhong University of Science and Technology, Wuhan) proposing a synthetic origin and the the coronavirus "probably originated from a laboratory in Wuhan." 
 
-26th February 2020. Pre-print "WeChat, a Chinese social media, may early detect the SARS-CoV-2 outbreak in 2019" by Wang et al (Shuangsuo Dang, Department of Infectious Diseases, Second  Affiliated Hospital of Xi’an Jiaotong University). These researchers noted a spike in 'SARS' related terms on wechat on Decmber 1 2019, and 'Feidian' (Chinese  abbreviation for severe acute respiratory syndrome) from December 15th.
+26th February 2020. Preprint "WeChat, a Chinese social media, may early detect the SARS-CoV-2 outbreak in 2019" by Wang et. al. (Shuangsuo Dang, Department of Infectious Diseases, Second  Affiliated Hospital of Xi’an Jiaotong University). These researchers noted a spike in 'SARS' related terms on wechat on December 1 2019, and 'Feidian' (Chinese  abbreviation for severe acute respiratory syndrome) from December 15th.
 
 February, 2020. [Paper published in International Journal of research Granthaalayah](https://www.researchgate.net/publication/340100582_WUHAN_COVID-19_SYNTHETIC_ORIGINS_AND_EVOLUTION/link/5e78a952a6fdcccd62192a2b/download) by Perze proposing a synthetic origin for Covid-19. "covid-19 genome contains an insertion of 6 
 strategic regions of HIV / SIV concentrated in a mini space representing less than 1% of the length of the genome."
 
-17th March 2020. Paper published in Nature ["The proximal origin of SARS-CoV-2"](https://www.nature.com/articles/s41591-020-0820-9) concluding "Our analyses clearly show that SARS-CoV-2 is not a laboratory construct or a purposefully manipulated virus." by Andersen et al. A key dataset used to draw conculsions on was RaTG13 "Indeed, the availability of the RaTG13 bat sequence helped reveal key RBD mutations and the polybasic cleavage site.". "Although RaTG13, sampled from a Rhinolophus affinis bat1, is ~96% identical overall to SARS-CoV-2, its spike diverges in the RBD, which suggests that it may not bind efficiently to human ACE27." The authors then propose a link with pangolin hosted viruses:
+17th March 2020. Paper published in Nature ["The proximal origin of SARS-CoV-2"](https://www.nature.com/articles/s41591-020-0820-9) concluding "Our analyses clearly show that SARS-CoV-2 is not a laboratory construct or a purposefully manipulated virus." by Andersen et. al. A key dataset used to draw conclusions on was RaTG13 "Indeed, the availability of the RaTG13 bat sequence helped reveal key RBD mutations and the polybasic cleavage site.". "Although RaTG13, sampled from a Rhinolophus affinis bat1, is ~96% identical overall to SARS-CoV-2, its spike diverges in the RBD, which suggests that it may not bind efficiently to human ACE27." The authors then propose a link with Pangolin hosted viruses:
 
 "Malayan pangolins (Manis javanica) illegally imported into Guangdong province contain coronaviruses similar to SARS-CoV-221. Although the RaTG13 bat virus remains the closest to SARS-CoV-2 across the genome1, some pangolin coronaviruses exhibit strong similarity to SARS-CoV-2 in the RBD, including all six key RBD residues21 (Fig. 1). This clearly shows that the SARS-CoV-2 spike protein optimized for binding to human-like ACE2 is the result of natural selection.". "The presence in pangolins of an RBD very similar to that of SARS-CoV-2 means that we can infer this was also probably in the virus that jumped to humans." 
 
 April 2020. Preprint ["Is considering a genetic-manipulation origin for SARS-CoV-2 a conspiracy theory that must be censored?"](https://www.researchgate.net/publication/340924249_Is_considering_a_genetic-manipulation_origin_for_SARS-CoV-2_a_conspiracy_theory_that_must_be_censored) Segreto. R. and Deigin, Y. University of Innsbruck "Based on our experience in genetic manipulation we cannot exclude a synthetic origin of SARS-CoV-2 and we believe that this topic should not be censored. In our manuscript we suggest a possible experiment that could have originated SARS-CoV-2, known to be chimeric and characterized by a furin cleavage site, missing in other beta-coronaviruses of the same lineage. Moreover, we do a critical analysis of the paper of Andersen and colleagues published in Nature on the Proximal Origin of SARS-CoV-2. This paper is considered to prove that SARS-CoV-2 has a natural origin, but in our opinion it lacks scientific evidence.". Further the authors observe "SARS-CoV-2 seems to merge some exclusive features of SARS-CoV together with those typical for MERS-CoV".
 
-13th May, 2020. Unoffical [dataset leaked to 100Rrters](https://100r.org/2020/05/china-coronavirus/) indicating number of Covid-19 drastically higher than official government numbers 
+13th May, 2020. Unofficial [dataset leaked to 100Rrters](https://100r.org/2020/05/china-coronavirus/) indicating number of Covid-19 drastically higher than official government numbers 
 
 19th May 2020. Amplicon_sequences of RaTG13 [published to NCBI](https://db.cngb.org/search/experiment/SRX8357956/) by authors of "A pneumonia outbreak associated with a new coronavirus of probable bat origin" ie Zhou et al. (including Dr. Shi Zheng-Li) 
 
-19th May 2020. Preprint ["Understanding the Origin of ‘BatCoVRaTG13’, a Virus Closest to SARS-CoV-2"](https://www.preprints.org/manuscript/202005.0322/v2) by Rahalkar and Bahulikar. The authors review the limited information around collection of the RaTG13 sample and raise questions requiring futher information about RaTG13 data collection and history. 
+19th May 2020. Preprint ["Understanding the Origin of ‘BatCoVRaTG13’, a Virus Closest to SARS-CoV-2"](https://www.preprints.org/manuscript/202005.0322/v2) by Rahalkar and Bahulikar. The authors review the limited information around collection of the RaTG13 sample and raise questions requiring further information about RaTG13 data collection and history. 
 
 8th June 2020. ["A Novel Bat Coronavirus Closely Related to SARS-CoV-2 Contains Natural Insertions at the S1/S2 Cleavage Site of the Spike Protein"](https://www.sciencedirect.com/science/article/pii/S096098222030662X) paper by Zhou et al. The authors "report a novel bat-derived coronavirus, denoted RmYN02, identified from a metagenomic analysis of samples from 227 bats collected from Yunnan Province in China between May and October 2019." and propose this provides "strong evidence that such insertion events can occur naturally in animal betacoronaviruses". 
 
@@ -121,11 +121,11 @@ April 2020. Preprint ["Is considering a genetic-manipulation origin for SARS-CoV
 
 31st July 2020. [Reply](https://www.sciencemag.org/sites/default/files/Shi%20Zhengli%20Q&A.pdf) to Science Magazine questions by Dr Shi Zhengli 
 
-25th August. Pre-print ["De-novo Assembly of RaTG13 Genome Reveals Inconsistencies Further Obscuring SARS-CoV-2 Origins"](https://www.preprints.org/manuscript/202008.0595/v1) Singla et al. ( All India Institute of Medical Sciences) Question the inference of a link to RaTG13 and highlight data quality issues with the RaTG13 genome sequence, [also here](https://www.news-medical.net/news/20200910/Scientists-claim-serious-data-discrepancies-in-RaTG13-sequence.aspx)
+25th August. Preprint ["De-novo Assembly of RaTG13 Genome Reveals Inconsistencies Further Obscuring SARS-CoV-2 Origins"](https://www.preprints.org/manuscript/202008.0595/v1) Singla et al. ( All India Institute of Medical Sciences) Question the inference of a link to RaTG13 and highlight data quality issues with the RaTG13 genome sequence, [also here](https://www.news-medical.net/news/20200910/Scientists-claim-serious-data-discrepancies-in-RaTG13-sequence.aspx)
 
 14th September 2020. Open research study published on zenodo ["Unusual Features of the SARS-CoV-2 Genome Suggesting Sophisticated Laboratory Modification Rather Than Natural Evolution and Delineation of Its Probable Synthetic Route"](https://zenodo.org/record/4028830) 
 
-September 2020. Preprint ["Are the data about RaTG13 virus accurate and transparent or fabricated?"](https://www.researchgate.net/publication/344362746_Are_the_data_about_RaTG13_virus_accurate_and_transparent_or_fabricated) by Petrc, D. (Clinical pharmacology with toxicologySplit, Croatia) questions the veracity of Dr Zhengli Shi's calims as to the physical existence of RaTG13 virus samples "Unavailability of the samples of RaTG13 virus, so that the experiment can be independently
+September 2020. Preprint ["Are the data about RaTG13 virus accurate and transparent or fabricated?"](https://www.researchgate.net/publication/344362746_Are_the_data_about_RaTG13_virus_accurate_and_transparent_or_fabricated) by Petrc, D. (Clinical pharmacology with toxicologySplit, Croatia) questions the veracity of Dr Zhengli Shi's claims as to the physical existence of RaTG13 virus samples "Unavailability of the samples of RaTG13 virus, so that the experiment can be independently
 repeated in another laboratory, together with contradiction in Zhengli Shi's statements about when the virus was sequenced casts a shadow of doubt whether are these data accurate, as are now
 considered by the mainstream media and many prominent scientists, or fabricated." 
 
@@ -137,16 +137,16 @@ There are several factors that have changed my thinking on the origin of Covid-1
 
 ### Location
 
-If we assume a high population density is associated with increased risk of zoonotic transmission and spread, we can say take the ~250 cities in China with a population [> 500,000 people](http://www.demographia.com/db-worldua.pdf) as having increased risk of a coronavirus outbreak (If we relax this assumption, we could include tens of thousands of towns and villages). Out of all these cities, the location where the Covid-19 outbreak occurred was hunders of meters to several kilometers away from the WIV where Dr. Zhengli Shi registered the RaTG13 genome sequence which is the closest known bat coronavirus to Covid-19.
+If we assume a high population density is associated with increased risk of zoonotic transmission and spread, we can say take the ~250 cities in China with a population [> 500,000 people](http://www.demographia.com/db-worldua.pdf) as having increased risk of a coronavirus outbreak (If we relax this assumption, we could include tens of thousands of towns and villages). Out of all these cities, the location where the Covid-19 outbreak occurred was hundreds of meters to several kilometers away from the WIV where Dr. Zhengli Shi registered the RaTG13 genome sequence which is the closest known bat coronavirus to Covid-19.
 
-This is an incredible coincidence and I haven't seen any datascience analysis on the likelyhood of this coincidence.
+This is an incredible coincidence and I haven't seen any statistical analysis on the likelihood of this coincidence.
 
 ### Covid-19 relatives
 
 There are 4 coronavirus sequences most closely related to Covid-19. 
 
 * RaTG13 published in 2020 but has not been independently verified.
-* MP789 isolated in a Malaysian pangolin in 2019
+* MP789 isolated in a Malaysian Pangolin in 2019
 * bat-SL-CoVZXC21 identified and owned by the Institute of Military Medicine Nanjing Command
 * bat-SL-CoVZC45 identified and owned by the Institute of Military Medicine Nanjing Command
 
@@ -154,19 +154,19 @@ That the RaTG13 coronavirus genome sequence has "never been isolated or cultured
 
 The report [here](https://zenodo.org/record/4073131) raises questions as to the validity of the methods used in MP789 Pangolin studies. Also looking at the potential for transmission of viruses to humans, Malay Pangolins appear to be an unlikely source: ~10,000 per year are illegally trapped and exported to China and Vietnam. Of those only a certain percentage will be infected, [this paper](https://www.biorxiv.org/content/10.1101/2020.06.19.158717v1) did not find any evidence of coronaviruses in a 10 year study of Pangolins in Malaysia, so the percentage should be very small (any infection presumably occurred in transit).
 
-That the CoVZXC21 and CoVZC45 were discovered and controlled by the Chinese military and are relatively closely related to SARS-CoV-2 is another interesting factor to be taken into consideration when invetigating a potential synthetic origin for the virus.
+That the CoVZXC21 and CoVZC45 were discovered and controlled by the Chinese military and are relatively closely related to SARS-CoV-2 is another interesting factor to be taken into consideration when investigating a potential synthetic origin for the virus.
 
 ### Gene sequencing
 
-Significant anomalies as to the SARS-CoV-2 geonome have been raised by Yan. L. et al. "SARS-CoV-2 Is an Unrestricted Bioweapon", Segreto. R. and Deigin, Y. "Is considering a genetic-manipulation origin for SARS-CoV-2 a conspiracy theory that must be censored?" and "Nerd". "Scientific evidence and logic behind the claim that the Wuhan coronavirus is man-made". 
+Significant anomalies as to the SARS-CoV-2 genome have been raised by Yan. L. et al. "SARS-CoV-2 Is an Unrestricted Bioweapon", Segreto. R. and Deigin, Y. "Is considering a genetic-manipulation origin for SARS-CoV-2 a conspiracy theory that must be censored?" and "Nerd". "Scientific evidence and logic behind the claim that the Wuhan coronavirus is man-made". 
 
-The Zhengli Shi's team at the WIV was actively engaged in [chimeric fusion experiments](https://jvi.asm.org/content/jvi/82/4/1899.full.pdf) where they created pesudoviruses by replacing the RBD of a the S protein of a bat coronavirus SL-CoV by with that from the SARS-CoV Spike protein RBD to show the hybrid protein was able to use the hACE2 for cell entry.
+The Zhengli Shi's team at the WIV was actively engaged in [chimeric fusion experiments](https://jvi.asm.org/content/jvi/82/4/1899.full.pdf) where they created pseudo-viruses by replacing the RBD of a the S protein of a bat coronavirus SL-CoV by with that from the SARS-CoV Spike protein RBD to show the hybrid protein was able to use the hACE2 for cell entry.
 
 ### Final Conclusions
 
-Given: the highly coincidental location of the WIV within a few kilomters of the suspected epicentre the breakout; that the WIV was actively engaged in collection, study and genetic maipulation of bat coronaviruses; the anomalous nature of the RaTG13 genome and questionable pangoloin virus study methodology; and PLA military ties to ZXC21 and ZC45 which appear highly correlated to the SARS-CoV-2 genome except in the important S protien areas, when combined lead me to conclude (as a working hypothesis) that the SARS-CoV-2 (cause of Covid-19) genome was synthetically manipulated and released accidentally.
+Given: the highly coincidental location of the WIV within a few kilometers of the suspected epicenter the breakout; that the WIV was actively engaged in collection, study and genetic manipulation of bat coronaviruses; the anomalous nature of the RaTG13 genome and questionable Pangoloin virus study methodology; and PLA military ties to ZXC21 and ZC45 which appear highly correlated to the SARS-CoV-2 genome except in the important S protein areas, when combined lead me to conclude (as a working hypothesis) that the SARS-CoV-2 (cause of Covid-19) genome was synthetically manipulated and released accidentally.
 
-In my opinion there is enough evidence to pressue scientific journals to allow the publication of investigations into a synthetic origin for the SARS-CoV-2 geonome. 
+In my opinion there is enough evidence to pressure scientific journals to allow the publication of investigations into a synthetic origin for the SARS-CoV-2 genome. 
 
 
 
