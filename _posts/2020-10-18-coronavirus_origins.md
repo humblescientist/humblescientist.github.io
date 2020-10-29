@@ -28,7 +28,7 @@ The only P4 (high security lab) in China is in Wuhan (two in Taiwan), and is loc
 
 ### SARS
 
-Several papers discussing coronaviruses and SARS are outlined below. Note that chimeric fusion experiments were carried out in multiple labs worldwide (including the WIV)
+Several papers discussing coronaviruses and [SARS](https://www.cdc.gov/sars/about/fs-sars.html) are outlined below. It is interesting to review the history of research of the SARS-associated coronavirus (SARS-CoV). Note that [chimeric fusion](https://en.wikipedia.org/wiki/Fusion_protein) experiments were carried out in multiple labs worldwide (including the WIV).
 
 December 2006 [Review of Bats and SARS](https://wwwnc.cdc.gov/eid/article/12/12/pdfs/06-0401.pdf) by Wang, L-F et al. (incl. Zhengli Shi). The authors discuss the role of civets in transmission of SARS-CoV to humans and "sequence analyses indicated the existence of a much greater genetic diversity of SARS-like–CoVs in bats than of SARS-CoVs in civets or humans, which supports the notion that SARS-CoV is a member of this novel coronavirus group and that bats are a natural reservoir for it.". Furthermore "For the SARS-like–CoVs to infect humans, substantial genetic changes in the S1 receptor-binding domain will be necessary."
 
