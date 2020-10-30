@@ -54,6 +54,10 @@ End 2014. [Wuhan Institute of Virology](https://en.wikipedia.org/wiki/Wuhan_Inst
 
 2015 [Bat origin of human coronaviruses](https://virologyj.biomedcentral.com/track/pdf/10.1186/s12985-015-0422-1) by Hu et al. (incl. Zhengli Shi)
 
+9th November 2015. [A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence](https://www.nature.com/articles/nm.3985) by Menacheny V.D. et al. (incl. Zhengli Shi). "Using the SARS-CoV reverse genetics system 2, we generated and characterized a chimeric virus expressing the spike of bat coronavirus SHC014 in a mouse-adapted SARS-CoV backbone"
+
+12th November 2015. [Engineered bat virus stirs debate over risky research](https://www.nature.com/news/engineered-bat-virus-stirs-debate-over-risky-research-1.18787) by Butler D. The author briefly discusses the research by Menacheny V.D. et al. (incl. Zhengli Shi) cited above and notes concers from the scientific community "Simon Wain-Hobson, a virologist at the Pasteur Institute in Paris, points out that the researchers have created a novel virus that grows remarkably well in human cells. If the virus escaped, nobody could predict the trajectory,” 
+
 February 2016. [Coexistence of multiple coronaviruses in several bat colonies in an abandoned mineshaft](https://www.virosin.org/fileZGBDX/journal/article/vs/2016/1/PDF/VS12250-016-3713-9.pdf) paper published by Dr. Zhengli Shi's team. This paper includes details of the RaBtCoV/4991 betacoronavirus sequence. Only a 440-bp segment of RdRp of the RaBtCoV/4991 coronavirus was sequenced, and the genome was not published. 
 
 30th December 2016. [Bat SARS-like coronavirus isolate Rs4084](https://www.ncbi.nlm.nih.gov/nuccore/KY417144.1) genome published by Dr. Zhengli Shi's team at the CAS Key Laboratory of Special Pathogens and Biosafety and Center for Emerging Infectious Diseases, WIV,  "Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus" Authors: Hu,B., Zeng,L.P., Yang,X.L., Ge,X.Y., Zhang,W., Li,B., Luo,D.S., Zhang,Y.Z., Wang,M.N., Daszak,P., Wang,L., Cui,J. and Shi,Z.L. 
