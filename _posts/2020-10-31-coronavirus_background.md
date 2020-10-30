@@ -3,7 +3,7 @@
 
 ## Introduction
 
-After writing my [Coronavirus origins post](https://humblescientist.github.io/2020/10/18/coronavirus_origins.html), I found that people would skim through the post and quickly make a conclusion based on per-conceived ideas. In this post I look at the history of coronavirus research prior to the outbreak of Covid-19 in late 2019. Given the number of infections (~45 million) and deaths (~1.2 million as at 31st Oct) I would encourage you to spend a few days (yes it will take days) reading the research papers in this and my previous post in detail.
+After writing my [Coronavirus origins post](https://humblescientist.github.io/2020/10/18/coronavirus_origins.html), I found that people would skim through the post and quickly make a conclusion based on pre-conceived ideas. In this post I look at the history of coronavirus research prior to the outbreak of Covid-19 in late 2019. Given the number of infections (~45 million) and deaths (~1.2 million as at 31st Oct) I would encourage you to spend a few days (yes it will take days) reading the research papers in this and my previous post in detail.
 
 In this post I make no inference whatsoever, I just provide summaries, research data and references to the papers I have summarised. All papers were published prior to November 2019, and provide a immutable timestamp of the state of coronavirus research prior to Covid-19.
 
