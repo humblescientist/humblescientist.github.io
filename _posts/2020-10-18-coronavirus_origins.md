@@ -15,6 +15,8 @@ Several anomalies are highlighted and the author interprets that "The virus that
 
 Wow I thought, could there be something to this story? I have compiled a list of dates of some significant events and added references for you to do your own investigations.
 
+Terminology: SARS-CoV-2 (in some early papers called 'Wuhan CoV') is the viral cause of covid-19.
+
 ## Wuhan Institute of Virology (WIV)
 
 The only P4 (high security lab) in China is in Wuhan (two in Taiwan), and is located several hundred meters to a few kilometers (I have seen reports vary from 280m to 12km) away from the suspected outbreak [epicentre](https://www.researchgate.net/publication/338993642_A_new_coronavirus_associated_with_human_respiratory_disease_in_China) the Wuhan wet market (though the this association may have been recently [discounted](https://www.researchgate.net/publication/340924249_Is_considering_a_genetic-manipulation_origin_for_SARS-CoV-2_a_conspiracy_theory_that_must_be_censored)). Until last week I had not done any research into the WIV. 
@@ -38,7 +40,7 @@ December 2006 [Review of Bats and SARS](https://wwwnc.cdc.gov/eid/article/12/12/
 
 February 2008 [Difference in Receptor Usage between Severe Acute Respiratory Syndrome (SARS) Coronavirus and SARS-Like Coronavirus of Bat Origin](https://jvi.asm.org/content/jvi/82/4/1899.full.pdf) by Ren W. et al. (incl. Zhengli Shi). the authors modify the S protein of SL-CoV by replacing the RBD with that from the SARS-CoV S to show the hybrid protein was able to use the huACE2 for cell entry.
 
-21st April 2010 [Angiotensin-converting enzyme 2 (ACE2) proteins of different bat species confer variable susceptibility to SARS-CoV entry](https://pubmed.ncbi.nlm.nih.gov/20567988/) by Hou, Y. et al. (incl Zhengli Shi). The authors undertook chimeric ACE2 construction, conbining "the N-terminal region of bat ACE2 with the C-terminal portion of human ACE2"
+21st April 2010 [Angiotensin-converting enzyme 2 (ACE2) proteins of different bat species confer variable susceptibility to SARS-CoV entry](https://pubmed.ncbi.nlm.nih.gov/20567988/) by Hou, Y. et al. (incl Zhengli Shi). The authors undertook chimeric ACE2 construction, combining "the N-terminal region of bat ACE2 with the C-terminal portion of human ACE2"
 
 April 2013 [Structural Analysis of the Evolutionary Origins of Influenza Virus Hemagglutinin and Other Viral Lectins](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3624229/pdf/zjv4118.pdf) by Chen, L. and Li, F. The authors propose that "viral lectins originated from an ancient host lectin and have since diverged in their sugar-binding mechanisms" and "viral lectins need to hide their sugar-binding sites from host immune attacks."
 
@@ -88,7 +90,14 @@ December 2019. [Fist (unofficial) case outside China - in Gorgan, Iran](https://
 
 12th January. Shanghai Public Health Clinical Centre [ordered to close for "rectification"](https://www.scmp.com/news/china/society/article/3052966/chinese-laboratory-first-shared-coronavirus-genome-world-ordered)
 
+21st January 2020. [Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission](https://link.springer.com/article/10.1007/s11427-020-1637-5) by Xu, X et al. The authors find although a low overall "homology of the Wuhan CoV S-protein to that of SARS-CoV", "the Wuhan CoV S-protein had several patches of sequences in the RBD domain having a high homology to that of SARS-CoV_Tor2 and HP03-GZ01". Futher the authors find "The Wuhan CoV S-protein and SARS-CoV S-protein shared an almost identical 3-D structure in the RBD domain". 
+
+24th January 2020. [Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China](https://www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2930183-5) by Huang, C et. al. The authors provide from what I have seen the most detailed analysis of early patient history in Wuhan in the early days of the Covid-19 outbreak. The authors found "27 (66%) of 41 patients had a history of direct exposure to the
+Huanan seafood market.". The first identified case and two of the 3 next cases (by date of illness onset) had no history of Huanan seafood market exposure.
+
 27th January 2020. RaTG13 RNA sequence registered by Dr. Zhengli Shi with the National Center for Biotechnology Information (NCBI) of the U.S. National Institutes of Health. No independent verification of the existence of RaTG13 has been made. The sample was stated to be collected in 2013 from a bat fecal sample in an abandoned mine from Mojiang in Yunnan province.
+
+29th January 2020. [Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding](https://www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2930251-8) by Lu R. et al. The authors use "phylogenetic analysis of collected 2019-nCoV genomes and those of other coronaviruses to determine the evolutionary history of the virus and help infer its likely origin". The authors found "2019-nCoV was closely related (with 88% identity) to two bat-derived severe acute respiratory syndrome (SARS)-like coronaviruses, bat-SL-CoVZC45 and bat-SL-CoVZXC21, collected in 2018 in Zhoushan, eastern China, but were more distant from SARS-CoV (about 79%) and MERS-CoV (about 50%). Phylogenetic analysis revealed that 2019-nCoV fell within the subgenus Sarbecovirus of the genus Betacoronavirus, with a relatively long branch length to its closest relatives bat-SL-CoVZC45 and bat-SL-CoVZXC21, and was genetically distinct from SARS-CoV. Notably, homology modeling revealed that 2019-nCoV had a similar receptor-binding domain structure to that of SARS-CoV, despite amino acid variation at some key residues
 
 31st January 2020. [First case in Italy](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Italy) ,[also here](https://www.nydailynews.com/coronavirus/ny-coronavirus-first-cases-italy-january-much-earlier-according-study-20200424-plmph6zq4rckzckqsvbpoqiyli-story.html)
 
