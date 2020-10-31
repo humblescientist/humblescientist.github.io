@@ -30,7 +30,7 @@ The only P4 (high security lab) in China is in Wuhan (two in Taiwan), and is loc
 
 ### SARS
 
-Several papers discussing coronaviruses and [SARS](https://www.cdc.gov/sars/about/fs-sars.html) are outlined below. It is interesting to review the history of research of the SARS-associated coronavirus (SARS-CoV). Note that [chimeric fusion](https://en.wikipedia.org/wiki/Fusion_protein) experiments were carried out in multiple labs worldwide (including the WIV).
+Several papers discussing coronaviruses and [SARS](https://www.cdc.gov/sars/about/fs-sars.html) are outlined below. It is interesting to review the history of research of the SARS-associated coronavirus (SARS-CoV). Note that [chimeric fusion](https://en.wikipedia.org/wiki/Fusion_protein) experiments were carried out in multiple labs worldwide (including the WIV) post SARS and pre-Covid-19.
 
 December 2006 [Review of Bats and SARS](https://wwwnc.cdc.gov/eid/article/12/12/pdfs/06-0401.pdf) by Wang, L-F et al. (incl. Zhengli Shi). The authors discuss the role of civets in transmission of SARS-CoV to humans and "sequence analyses indicated the existence of a much greater genetic diversity of SARS-like–CoVs in bats than of SARS-CoVs in civets or humans, which supports the notion that SARS-CoV is a member of this novel coronavirus group and that bats are a natural reservoir for it.". Furthermore "For the SARS-like–CoVs to infect humans, substantial genetic changes in the S1 receptor-binding domain will be necessary."
 
@@ -179,9 +179,20 @@ The Zhengli Shi's team at the WIV was actively engaged in [chimeric fusion exper
 
 ### Final Conclusions
 
-Given: the highly coincidental location of the WIV within a few kilometers of the suspected epicenter the breakout; that the WIV was actively engaged in collection, study and genetic manipulation of bat coronaviruses; the anomalous nature of the RaTG13 genome and questionable Pangoloin virus study methodology; and PLA military ties to ZXC21 and ZC45 which appear highly correlated to the SARS-CoV-2 genome except in the important S protein areas, when combined lead me to conclude (as a working hypothesis) that the SARS-CoV-2 (cause of Covid-19) genome was synthetically manipulated and released accidentally.
+#### 1) Did the virus leak from the Wuhan Institute of Virology (WIV)?
 
-In my opinion there is enough evidence to pressure scientific journals to allow the publication of investigations into a synthetic origin for the SARS-CoV-2 genome. 
+Given: the highly coincidental location of the WIV within a few kilometers of the suspected epicenter the breakout; that the WIV was actively engaged in collection, study and genetic manipulation of bat coronaviruses; lack of association of the first documented Covid-19 cases with the Wuhan seafood market lead me to conclude a WIV lab leak is **very likely**.
+
+#### 2) Was the SARS-CoV-2 genome synthetically manipulated?
+
+The documented history of coronavirus research and synthetic manipulation of coronavirues by the WIV; anomalous nature of the RaTG13 genome and questionable Pangoloin virus study methodology; and PLA military ties to ZXC21 and ZC45 which appear highly correlated to the SARS-CoV-2 genome except in the important S protein areas, lead me to conclude a synthetic origin is **likely**.
+
+#### 3) Was the virus intentionally released as a bioweapon?
+
+That the epicentre of the virus was located in the vicinity of the WIV where research into the most closely related genomes to SARS-CoV-2 (most advanced research of anywhere in the world) was conducted, an intentional release in Wuhan would raise too much suspicion. Also the Chinese government would have been better prepared for the outbreak if a release was planned. I conclude that an intentional release is **very unlikely**.
+
+
+In my opinion there is enough evidence to pressure scientific journals to allow the publication of investigations into 1) the possibility of laboratory leak and 2) a synthetic origin for the SARS-CoV-2 genome. 
 
 
 
