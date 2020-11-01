@@ -162,9 +162,9 @@ If we assume a high population density is associated with increased risk of zoon
 
 This is an incredible coincidence and I haven't seen any statistical analysis on the likelihood of this coincidence.
 
-### Covid-19 relatives
+### SARS-CoV-2 relatives
 
-There are 4 coronavirus sequences most closely related to Covid-19. 
+There are 4 coronavirus sequences most closely related to SARS-CoV-2. 
 
 * RaTG13 published in 2020 but has not been independently verified.
 * MP789 isolated in a Malaysian Pangolin in 2019
