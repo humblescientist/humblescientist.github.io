@@ -30,7 +30,7 @@ The only P4 (high security lab) in China is in Wuhan (two in Taiwan), and is loc
 
 ### SARS
 
-Several papers discussing coronaviruses and [SARS](https://www.cdc.gov/sars/about/fs-sars.html) are outlined below. It is interesting to review the history of research of the SARS-associated coronavirus (SARS-CoV). Note that [chimeric fusion](https://en.wikipedia.org/wiki/Fusion_protein) experiments were carried out at the WIV in the post SARS / pre-Covid-19 period.
+Several papers discussing coronaviruses and [SARS](https://www.cdc.gov/sars/about/fs-sars.html) are outlined below. It is interesting to review the history of research of the SARS-associated coronavirus (SARS-CoV). Note that [chimeric fusion](https://en.wikipedia.org/wiki/Fusion_protein) experiments were carried out in multiple labs worldwide (including the WIV) post SARS and pre-Covid-19.
 
 December 2006 [Review of Bats and SARS](https://wwwnc.cdc.gov/eid/article/12/12/pdfs/06-0401.pdf) by Wang, L-F et al. (incl. Zhengli Shi). The authors discuss the role of civets in transmission of SARS-CoV to humans and "sequence analyses indicated the existence of a much greater genetic diversity of SARS-like–CoVs in bats than of SARS-CoVs in civets or humans, which supports the notion that SARS-CoV is a member of this novel coronavirus group and that bats are a natural reservoir for it.". Furthermore "For the SARS-like–CoVs to infect humans, substantial genetic changes in the S1 receptor-binding domain will be necessary."
 
@@ -50,8 +50,6 @@ April 2013 [Structural Analysis of the Evolutionary Origins of Influenza Virus H
 
 ### WIV pre Covid-19 outbreak
 
-This is a key period during which a significant ammount of novel coronavirus research was conducted at the WIV.
-
 End 2014. [Wuhan Institute of Virology](https://en.wikipedia.org/wiki/Wuhan_Institute_of_Virology), [(WIV)](https://www.nature.com/news/inside-the-chinese-lab-poised-to-study-world-s-most-dangerous-pathogens-1.21487) , mainland China's first biosafety level 4 (BSL–4) laboratory opened. Located in Jiangxia District, Wuhan, Hubei, the institute has been an active research centre for the study of coronaviruses, and is a world leader in their study. 
 
 2015 [Bat origin of human coronaviruses](https://virologyj.biomedcentral.com/track/pdf/10.1186/s12985-015-0422-1) by Hu et al. (incl. Zhengli Shi)
@@ -64,8 +62,6 @@ February 2016. [Coexistence of multiple coronaviruses in several bat colonies in
 
 30th December 2016. [Bat SARS-like coronavirus isolate Rs4084](https://www.ncbi.nlm.nih.gov/nuccore/KY417144.1) genome published by Dr. Zhengli Shi's team at the CAS Key Laboratory of Special Pathogens and Biosafety and Center for Emerging Infectious Diseases, WIV,  "Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus" Authors: Hu,B., Zeng,L.P., Yang,X.L., Ge,X.Y., Zhang,W., Li,B., Luo,D.S., Zhang,Y.Z., Wang,M.N., Daszak,P., Wang,L., Cui,J. and Shi,Z.L. 
 
-9th August 2017. [IFNAR2-dependent gene expression profile induced by IFN-α in Pteropus alecto bat cells and impact of IFNAR2 knockout on virus infection](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182866) by Zhange, Q. et al. (incl. Zheng-Li Shi). "In this study, we successfully applied CRISPR technology in making IFNAR2KO bat cell line and further demonstrated the functional loss of IFNAR2 in IFN-α3-mediated antiviral immunity. To our knowledge, this is the first successful application of CRISPR to any bat species."
-
 22 February 2017. [Inside the Chinese lab poised to study world's most dangerous pathogens](https://www.nature.com/news/inside-the-chinese-lab-poised-to-study-world-s-most-dangerous-pathogens-1.21487) article by Cyranoski. D. 
 
 30th November 2017. [Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006698) by Hu et al. (incl. Dr. Zhengli Shi). "We hypothesize that the direct progenitor of SARS-CoV may have originated after sequential recombination events between the precursors of these SARSr-CoVs. Cell entry studies demonstrated that three newly identified SARSr-CoVs with different S protein sequences are all able to use human ACE2 as the receptor, further exhibiting the close relationship between strains in this cave and SARS-CoV"
@@ -74,7 +70,7 @@ February 2016. [Coexistence of multiple coronaviruses in several bat colonies in
 
 12 Set 2018. [Genomic characterization and infectivity of a novel SARS-like coronavirus in Chinese bats](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6135831/) paper by Hu D. et al. (Department of Epidemiology, College of Preventive Medicine, Third Military Medical University, Chongqing, and Department of Epidemiology, Research Institute for Medicine of Nanjing Command, Nanjing, China) publish details of the SL-CoV ZXC21 and SL-CoV ZC45 genome sequences. 
 
-5th July 2019. [WIV staff scientists Xiangguo Qiu and her husband Keding Cheng and an unknown number of Qiu's students from China were removed from the National Microbiology Lab in Canada.](https://www.cbc.ca/news/canada/manitoba/lab-researcher-rcmp-national-microbiology-lab-1.5212851) [The researchers are suspected of transferring Ebola and Henipah virus samples to China without IP rights](https://www.the-scientist.com/news-opinion/questions-surround-canadian-shipment-of-deadly-viruses-to-china-66254)
+5th July 2019. [WIV staff scientists Xiangguo Qiu and her husband Keding Cheng and an unknown number of Qiu's students from China were removed from the National Microbiology Lab in Canada.](https://www.cbc.ca/news/canada/manitoba/lab-researcher-rcmp-national-microbiology-lab-1.5212851) Espionage was the suspected reason for their expulsion. 
 
 ### Covid-19 outbreak
 
