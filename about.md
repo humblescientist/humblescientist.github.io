@@ -6,6 +6,8 @@ If we look at a matrix proposed by Paul Graham in an [essay on conformism](http:
 
 image: images/quadrants.png
 
+![]({{ www.humblescientist.github.io }}/images/quadrants.png "four quadrants")
+
 I don't believe in sheepishly accepting 'the truth' when there is sufficient evidence to counter 'the truth'. :-)
 
 
