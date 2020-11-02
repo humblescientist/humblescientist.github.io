@@ -1,9 +1,4 @@
-﻿---
-title: Coronavirus origins
-sticky_rank: 1
----
-
-# Coronavirus origins
+﻿# Coronavirus origins
 
 
 ## Background
@@ -20,7 +15,7 @@ Several anomalies are highlighted and the author interprets that "The virus that
 
 Wow I thought, could there be something to this story? I have compiled a list of dates of some significant events and added references for you to do your own investigations.
 
-Terminology: SARS-CoV-2 (in some early papers called 'Wuhan CoV') is the viral cause of covid-19.
+Terminology: SARS-CoV-2 (in some early papers called 'Wuhan CoV') is the viral cause of covid-19; Some papers use the name Dr. Zheng-Li Shi, others Dr. Zhengli Shi, these refer to the same person; WIV is an abbreviation for the Wuhan Institute of Virology.
 
 ## Wuhan Institute of Virology (WIV)
 
@@ -35,7 +30,7 @@ The only P4 (high security lab) in China is in Wuhan (two in Taiwan), and is loc
 
 ### SARS
 
-Several papers discussing coronaviruses and [SARS](https://www.cdc.gov/sars/about/fs-sars.html) are outlined below. It is interesting to review the history of research of the SARS-associated coronavirus (SARS-CoV). Note that [chimeric fusion](https://en.wikipedia.org/wiki/Fusion_protein) experiments were carried out in multiple labs worldwide (including the WIV) post SARS and pre-Covid-19.
+Several papers discussing coronaviruses and [SARS](https://www.cdc.gov/sars/about/fs-sars.html) are outlined below. It is interesting to review the history of research of the SARS-associated coronavirus (SARS-CoV). Note that [chimeric fusion](https://en.wikipedia.org/wiki/Fusion_protein) experiments were carried out in multiple labs worldwide (including the WIV) post SARS / pre-Covid-19 period.
 
 December 2006 [Review of Bats and SARS](https://wwwnc.cdc.gov/eid/article/12/12/pdfs/06-0401.pdf) by Wang, L-F et al. (incl. Zhengli Shi). The authors discuss the role of civets in transmission of SARS-CoV to humans and "sequence analyses indicated the existence of a much greater genetic diversity of SARS-like–CoVs in bats than of SARS-CoVs in civets or humans, which supports the notion that SARS-CoV is a member of this novel coronavirus group and that bats are a natural reservoir for it.". Furthermore "For the SARS-like–CoVs to infect humans, substantial genetic changes in the S1 receptor-binding domain will be necessary."
 
@@ -47,13 +42,13 @@ February 2008 [Difference in Receptor Usage between Severe Acute Respiratory Syn
 
 21st April 2010 [Angiotensin-converting enzyme 2 (ACE2) proteins of different bat species confer variable susceptibility to SARS-CoV entry](https://pubmed.ncbi.nlm.nih.gov/20567988/) by Hou, Y. et al. (incl Zhengli Shi). The authors undertook chimeric ACE2 construction, combining "the N-terminal region of bat ACE2 with the C-terminal portion of human ACE2"
 
-April 2013 [Structural Analysis of the Evolutionary Origins of Influenza Virus Hemagglutinin and Other Viral Lectins](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3624229/pdf/zjv4118.pdf) by Chen, L. and Li, F. The authors propose that "viral lectins originated from an ancient host lectin and have since diverged in their sugar-binding mechanisms" and "viral lectins need to hide their sugar-binding sites from host immune attacks."
-
 29 August 2013 [Receptor recognition and cross-species infections of SARS coronavirus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3840050/pdf/main.pdf) by Fang Li. This paper includes a good description of coronaviruses, and SARS-CoV. "SARS-CoV infects a wide variety of animal species, including humans, palm civets, monkeys, domestic cats, ferrets, hamsters, raccoon dogs, and bats. It is believed that bats harbor the precursors of SARS-CoV and thus are the natural reservoir for the virus. In addition, palm civets played a key role in the spread of SARS-CoV to humans and thus were the interim reservoir or amplifying host for the virus"."The binding interactions between SARS-CoV RBD and ACE2 largely determine the host range and cross-species infections of SARS-CoV and hence are the focus of this review"
 
 30th October 2013 [Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor](https://www.nature.com/articles/nature12711), Xing-Yi Ge et al. (incl. Zhengli Shi). "Here we report whole-genome sequences of two novel bat coronaviruses from Chinese horseshoe bats (family: Rhinolophidae) in Yunnan, China: RsSHC014 and Rs3367. These viruses are far more closely related to SARS-CoV than any previously identified bat coronaviruses, particularly in the receptor binding domain of the spike protein. Most importantly, we report the first recorded isolation of a live SL-CoV (bat SL-CoV-WIV1) from bat faecal samples in Vero E6 cells, which has typical coronavirus morphology, 99.9% sequence identity to Rs3367 and uses ACE2 from humans, civets and Chinese horseshoe bats for cell entry."
 
 ### WIV pre Covid-19 outbreak
+
+This is a key period during which a significant ammount of novel coronavirus research was conducted at the WIV.
 
 End 2014. [Wuhan Institute of Virology](https://en.wikipedia.org/wiki/Wuhan_Institute_of_Virology), [(WIV)](https://www.nature.com/news/inside-the-chinese-lab-poised-to-study-world-s-most-dangerous-pathogens-1.21487) , mainland China's first biosafety level 4 (BSL–4) laboratory opened. Located in Jiangxia District, Wuhan, Hubei, the institute has been an active research centre for the study of coronaviruses, and is a world leader in their study. 
 
@@ -67,6 +62,8 @@ February 2016. [Coexistence of multiple coronaviruses in several bat colonies in
 
 30th December 2016. [Bat SARS-like coronavirus isolate Rs4084](https://www.ncbi.nlm.nih.gov/nuccore/KY417144.1) genome published by Dr. Zhengli Shi's team at the CAS Key Laboratory of Special Pathogens and Biosafety and Center for Emerging Infectious Diseases, WIV,  "Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus" Authors: Hu,B., Zeng,L.P., Yang,X.L., Ge,X.Y., Zhang,W., Li,B., Luo,D.S., Zhang,Y.Z., Wang,M.N., Daszak,P., Wang,L., Cui,J. and Shi,Z.L. 
 
+9th August 2017. [IFNAR2-dependent gene expression profile induced by IFN-α in Pteropus alecto bat cells and impact of IFNAR2 knockout on virus infection](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182866) by Zhange, Q. et al. (incl. Zheng-Li Shi). "In this study, we successfully applied CRISPR technology in making IFNAR2KO bat cell line and further demonstrated the functional loss of IFNAR2 in IFN-α3-mediated antiviral immunity. To our knowledge, this is the first successful application of CRISPR to any bat species."
+
 22 February 2017. [Inside the Chinese lab poised to study world's most dangerous pathogens](https://www.nature.com/news/inside-the-chinese-lab-poised-to-study-world-s-most-dangerous-pathogens-1.21487) article by Cyranoski. D. 
 
 30th November 2017. [Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006698) by Hu et al. (incl. Dr. Zhengli Shi). "We hypothesize that the direct progenitor of SARS-CoV may have originated after sequential recombination events between the precursors of these SARSr-CoVs. Cell entry studies demonstrated that three newly identified SARSr-CoVs with different S protein sequences are all able to use human ACE2 as the receptor, further exhibiting the close relationship between strains in this cave and SARS-CoV"
@@ -75,7 +72,7 @@ February 2016. [Coexistence of multiple coronaviruses in several bat colonies in
 
 12 Set 2018. [Genomic characterization and infectivity of a novel SARS-like coronavirus in Chinese bats](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6135831/) paper by Hu D. et al. (Department of Epidemiology, College of Preventive Medicine, Third Military Medical University, Chongqing, and Department of Epidemiology, Research Institute for Medicine of Nanjing Command, Nanjing, China) publish details of the SL-CoV ZXC21 and SL-CoV ZC45 genome sequences. 
 
-5th July 2019. [WIV staff scientists Xiangguo Qiu and her husband Keding Cheng and an unknown number of Qiu's students from China were removed from the National Microbiology Lab in Canada.](https://www.cbc.ca/news/canada/manitoba/lab-researcher-rcmp-national-microbiology-lab-1.5212851) Espionage was the suspected reason for their expulsion. 
+5th July 2019. [WIV staff scientists Xiangguo Qiu and her husband Keding Cheng and an unknown number of Qiu's students from China were removed from the National Microbiology Lab in Canada.](https://www.cbc.ca/news/canada/manitoba/lab-researcher-rcmp-national-microbiology-lab-1.5212851) [The researchers are suspected of transferring Ebola and Henipah virus samples to China without IP rights](https://www.the-scientist.com/news-opinion/questions-surround-canadian-shipment-of-deadly-viruses-to-china-66254)
 
 ### Covid-19 outbreak
 
