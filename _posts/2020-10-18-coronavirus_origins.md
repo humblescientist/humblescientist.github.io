@@ -1,5 +1,7 @@
-﻿# Coronavirus origins
-
+﻿---
+layout: post
+title: Coronavirus origins
+---
 
 ## Background
 
@@ -19,7 +21,9 @@ Terminology: SARS-CoV-2 (in some early papers called 'Wuhan CoV') is the viral c
 
 ## Wuhan Institute of Virology (WIV)
 
-The only P4 (high security lab) in China is in Wuhan (two in Taiwan), and is located several hundred meters to a few kilometers (I have seen reports vary from 280m to 12km) away from the suspected outbreak [epicentre](https://www.researchgate.net/publication/338993642_A_new_coronavirus_associated_with_human_respiratory_disease_in_China) the Wuhan wet market (though the this association may have been recently [discounted](https://www.researchgate.net/publication/340924249_Is_considering_a_genetic-manipulation_origin_for_SARS-CoV-2_a_conspiracy_theory_that_must_be_censored)). Until last week I had not done any research into the WIV. 
+![WIV](/images/wif.jpeg)
+
+The only P4 (high security lab) in China is in Wuhan (two in Taiwan), and is located several hundred meters to a few kilometers (I have seen reports vary from 280m to 12km) away from the suspected outbreak [epicenter](https://www.researchgate.net/publication/338993642_A_new_coronavirus_associated_with_human_respiratory_disease_in_China) the Wuhan wet market (though the this association may have been recently [discounted](https://www.researchgate.net/publication/340924249_Is_considering_a_genetic-manipulation_origin_for_SARS-CoV-2_a_conspiracy_theory_that_must_be_censored)). Until last week I had not done any research into the WIV. 
 
 1. The WIV, mainland China's highest security virology lab is situated within a few kilometers of the coronavirus outbreak epicenter in the Wuhan wet market.
 2. The WIV is a leading center for coronavirus research in China.
@@ -40,6 +44,8 @@ December 2006 [Review of Bats and SARS](https://wwwnc.cdc.gov/eid/article/12/12/
 
 February 2008 [Difference in Receptor Usage between Severe Acute Respiratory Syndrome (SARS) Coronavirus and SARS-Like Coronavirus of Bat Origin](https://jvi.asm.org/content/jvi/82/4/1899.full.pdf) by Ren W. et al. (incl. Zhengli Shi). the authors modify the S protein of SL-CoV by replacing the RBD with that from the SARS-CoV S to show the hybrid protein was able to use the huACE2 for cell entry.
 
+18th September 2009. [Immunogenicity difference between the SARS coronavirus and the bat SARS-like coronavirus spike (S) proteins](https://pubmed.ncbi.nlm.nih.gov/19595990/) by Zhou, P. (incl. Zhengli Shi) In a joint study between WIV and CSIRO (Australia), the researchers undertake pseudo-virus immunization studies focusing on S-protein constructs "The replacement of the sequence from aa 310–518 alone almost completely abolished the bat antibody reactivity towards the SSL protein."
+
 21st April 2010 [Angiotensin-converting enzyme 2 (ACE2) proteins of different bat species confer variable susceptibility to SARS-CoV entry](https://pubmed.ncbi.nlm.nih.gov/20567988/) by Hou, Y. et al. (incl Zhengli Shi). The authors undertook chimeric ACE2 construction, combining "the N-terminal region of bat ACE2 with the C-terminal portion of human ACE2"
 
 29 August 2013 [Receptor recognition and cross-species infections of SARS coronavirus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3840050/pdf/main.pdf) by Fang Li. This paper includes a good description of coronaviruses, and SARS-CoV. "SARS-CoV infects a wide variety of animal species, including humans, palm civets, monkeys, domestic cats, ferrets, hamsters, raccoon dogs, and bats. It is believed that bats harbor the precursors of SARS-CoV and thus are the natural reservoir for the virus. In addition, palm civets played a key role in the spread of SARS-CoV to humans and thus were the interim reservoir or amplifying host for the virus"."The binding interactions between SARS-CoV RBD and ACE2 largely determine the host range and cross-species infections of SARS-CoV and hence are the focus of this review"
@@ -48,15 +54,15 @@ February 2008 [Difference in Receptor Usage between Severe Acute Respiratory Syn
 
 ### WIV pre Covid-19 outbreak
 
-This is a key period during which a significant ammount of novel coronavirus research was conducted at the WIV.
+This is a key period during which a significant amount of novel coronavirus research was conducted at the WIV.
 
-End 2014. [Wuhan Institute of Virology](https://en.wikipedia.org/wiki/Wuhan_Institute_of_Virology), [(WIV)](https://www.nature.com/news/inside-the-chinese-lab-poised-to-study-world-s-most-dangerous-pathogens-1.21487) , mainland China's first biosafety level 4 (BSL–4) laboratory opened. Located in Jiangxia District, Wuhan, Hubei, the institute has been an active research centre for the study of coronaviruses, and is a world leader in their study. 
+End 2014. [Wuhan Institute of Virology](https://en.wikipedia.org/wiki/Wuhan_Institute_of_Virology), [(WIV)](https://www.nature.com/news/inside-the-chinese-lab-poised-to-study-world-s-most-dangerous-pathogens-1.21487) , mainland China's first biosafety level 4 (BSL–4) laboratory opened. Located in Jiangxia District, Wuhan, Hubei, the institute has been an active research center for the study of coronaviruses, and is a world leader in their study. 
 
 2015 [Bat origin of human coronaviruses](https://virologyj.biomedcentral.com/track/pdf/10.1186/s12985-015-0422-1) by Hu et al. (incl. Zhengli Shi)
 
 9th November 2015. [A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence](https://www.nature.com/articles/nm.3985) by Menacheny V.D. et al. (incl. Zhengli Shi). "Using the SARS-CoV reverse genetics system 2, we generated and characterized a chimeric virus expressing the spike of bat coronavirus SHC014 in a mouse-adapted SARS-CoV backbone"
 
-12th November 2015. [Engineered bat virus stirs debate over risky research](https://www.nature.com/news/engineered-bat-virus-stirs-debate-over-risky-research-1.18787) by Butler D. The author briefly discusses the research by Menacheny V.D. et al. (incl. Zhengli Shi) cited above and notes concers from the scientific community "Simon Wain-Hobson, a virologist at the Pasteur Institute in Paris, points out that the researchers have created a novel virus that grows remarkably well in human cells. If the virus escaped, nobody could predict the trajectory,” 
+12th November 2015. [Engineered bat virus stirs debate over risky research](https://www.nature.com/news/engineered-bat-virus-stirs-debate-over-risky-research-1.18787) by Butler D. The author briefly discusses the research by Menacheny V.D. et al. (incl. Zhengli Shi) cited above and notes concerns from the scientific community "Simon Wain-Hobson, a virologist at the Pasteur Institute in Paris, points out that the researchers have created a novel virus that grows remarkably well in human cells. If the virus escaped, nobody could predict the trajectory,” 
 
 February 2016. [Coexistence of multiple coronaviruses in several bat colonies in an abandoned mineshaft](https://www.virosin.org/fileZGBDX/journal/article/vs/2016/1/PDF/VS12250-016-3713-9.pdf) paper published by Dr. Zhengli Shi's team. This paper includes details of the RaBtCoV/4991 betacoronavirus sequence. Only a 440-bp segment of RdRp of the RaBtCoV/4991 coronavirus was sequenced, and the genome was not published. 
 
@@ -92,11 +98,11 @@ December 2019. [Fist (unofficial) case outside China - in Gorgan, Iran](https://
 
 3rd January. "Chinese officials [provided information to WHO](https://www.who.int/news/item/29-06-2020-covidtimeline)  on the cluster of cases of ‘viral pneumonia of unknown cause’ identified in Wuhan." 
 
-11th January. Professor Zhang Yongzhen’s team at the Shanghai Public Health Clinical Centre (Level 3 biosafety) [published the world’s first genome sequence for SARS-CoV-2.](https://www.ncbi.nlm.nih.gov/nuccore/MN908947.1) 
+11th January. Professor Zhang Yongzhen’s team at the Shanghai Public Health Clinical Centre (Level 3 bio-safety) [published the world’s first genome sequence for SARS-CoV-2.](https://www.ncbi.nlm.nih.gov/nuccore/MN908947.1) 
 
 12th January. Shanghai Public Health Clinical Centre [ordered to close for "rectification"](https://www.scmp.com/news/china/society/article/3052966/chinese-laboratory-first-shared-coronavirus-genome-world-ordered)
 
-21st January 2020. [Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission](https://link.springer.com/article/10.1007/s11427-020-1637-5) by Xu, X et al. The authors find although a low overall "homology of the Wuhan CoV S-protein to that of SARS-CoV", "the Wuhan CoV S-protein had several patches of sequences in the RBD domain having a high homology to that of SARS-CoV_Tor2 and HP03-GZ01". Futher the authors find "The Wuhan CoV S-protein and SARS-CoV S-protein shared an almost identical 3-D structure in the RBD domain". 
+21st January 2020. [Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission](https://link.springer.com/article/10.1007/s11427-020-1637-5) by Xu, X et al. The authors find although a low overall "homology of the Wuhan CoV S-protein to that of SARS-CoV", "the Wuhan CoV S-protein had several patches of sequences in the RBD domain having a high homology to that of SARS-CoV_Tor2 and HP03-GZ01". Further the authors find "The Wuhan CoV S-protein and SARS-CoV S-protein shared an almost identical 3-D structure in the RBD domain". 
 
 24th January 2020. [Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China](https://www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2930183-5) by Huang, C et. al. The authors provide from what I have seen the most detailed analysis of early patient history in Wuhan in the early days of the Covid-19 outbreak. The authors found "27 (66%) of 41 patients had a history of direct exposure to the
 Huanan seafood market.". The first identified case and two of the 3 next cases (by date of illness onset) had no history of Huanan seafood market exposure.
@@ -140,6 +146,8 @@ April 2020. Preprint ["Is considering a genetic-manipulation origin for SARS-CoV
 
 8th June 2020. ["A Novel Bat Coronavirus Closely Related to SARS-CoV-2 Contains Natural Insertions at the S1/S2 Cleavage Site of the Spike Protein"](https://www.sciencedirect.com/science/article/pii/S096098222030662X) paper by Zhou et al. The authors "report a novel bat-derived coronavirus, denoted RmYN02, identified from a metagenomic analysis of samples from 227 bats collected from Yunnan Province in China between May and October 2019." and propose this provides "strong evidence that such insertion events can occur naturally in animal betacoronaviruses". 
 
+13th July 2020. [The Evidence which Suggests that This Is No Naturally Evolved Virus A Reconstructed Historical Aetiology of the SARS-CoV-2 Spike](https://www.minervanett.no/files/2020/07/13/TheEvidenceNoNaturalEvol.pdf) by Sørensen et al. (Immunor and St Georges, University of London). The authors undertake a detailed study of the structure of the SARS-CoV-2 spike and identify multiple characteristics that strongly suggest that SARS-CoV-2 was purposefully synthetically manipulated in a laboratory. “Five salient features that strengthen the case for purposeful(sic) manipulation in the laboratory” are: 1) A major part of the spike protein has human-like domains with matured transmission adaption; 2) The Spike displays new amino acid inserts with condensed cumulative charge, all of which are surface exposed; 3) The concentration of positive charge is on the receptor binding domain near the receptor binding motif at the top of the Spike protein; 4) The Spike is so configured that it can bind to cell tissue without use of the ACE2 receptor; 5) Anomalous CLEC4M attachment receptor.
+
 31st July 2020. ["A palindromic RNA sequence as a common breakpoint contributor to copy-choice recombination in SARS-COV-2"](https://link.springer.com/article/10.1007/s00705-020-04750-z) by Gallaher W. proposes a natural origin for evolution of SARS-CoV-2 from RaTG13. 
 
 31st July 2020. [Reply](https://www.sciencemag.org/sites/default/files/Shi%20Zhengli%20Q&A.pdf) to Science Magazine questions by Dr Shi Zhengli 
@@ -148,7 +156,7 @@ April 2020. Preprint ["Is considering a genetic-manipulation origin for SARS-CoV
 
 14th September 2020. Open research study published on zenodo ["Unusual Features of the SARS-CoV-2 Genome Suggesting Sophisticated Laboratory Modification Rather Than Natural Evolution and Delineation of Its Probable Synthetic Route"](https://zenodo.org/record/4028830) 
 
-September 2020. Preprint ["Are the data about RaTG13 virus accurate and transparent or fabricated?"](https://www.researchgate.net/publication/344362746_Are_the_data_about_RaTG13_virus_accurate_and_transparent_or_fabricated) by Petrc, D. (Clinical pharmacology with toxicologySplit, Croatia) questions the veracity of Dr Zhengli Shi's claims as to the physical existence of RaTG13 virus samples "Unavailability of the samples of RaTG13 virus, so that the experiment can be independently
+September 2020. Preprint ["Are the data about RaTG13 virus accurate and transparent or fabricated?"](https://www.researchgate.net/publication/344362746_Are_the_data_about_RaTG13_virus_accurate_and_transparent_or_fabricated) by Petrc, D. (Clinical pharmacology with toxicology Split, Croatia) questions the veracity of Dr Zhengli Shi's claims as to the physical existence of RaTG13 virus samples "Unavailability of the samples of RaTG13 virus, so that the experiment can be independently
 repeated in another laboratory, together with contradiction in Zhengli Shi's statements about when the virus was sequenced casts a shadow of doubt whether are these data accurate, as are now
 considered by the mainstream media and many prominent scientists, or fabricated." 
 
@@ -193,14 +201,15 @@ Given: the highly coincidental location of the WIV within a few kilometers of th
 
 #### 2) Was the SARS-CoV-2 genome synthetically manipulated?
 
-The documented history of coronavirus research and synthetic manipulation of coronavirues by the WIV; anomalous nature of the RaTG13 genome and questionable Pangoloin virus study methodology; and PLA military ties to ZXC21 and ZC45 which appear highly correlated to the SARS-CoV-2 genome except in the important S protein areas, lead me to conclude a synthetic origin is **likely**.
+The documented history of coronavirus research and synthetic manipulation of coronaviruses by the WIV; anomalous nature of the RaTG13 genome and questionable Pangolin virus study methodology; and PLA military ties to ZXC21 and ZC45 which appear highly correlated to the SARS-CoV-2 genome except in the important S protein areas, lead me to conclude a synthetic origin is **likely**.
 
 #### 3) Was the virus intentionally released as a bioweapon?
 
-That the epicentre of the virus was located in the vicinity of the WIV where research into the most closely related genomes to SARS-CoV-2 (most advanced research of anywhere in the world) was conducted, an intentional release in Wuhan would raise too much suspicion. Also the Chinese government would have been better prepared for the outbreak if a release was planned. I conclude that an intentional release is **very unlikely**.
+That the epicenter of the virus was located in the vicinity of the WIV where research into the most closely related genomes to SARS-CoV-2 (most advanced research of anywhere in the world) was conducted, an intentional release in Wuhan would raise too much suspicion. Also the Chinese government would have been better prepared for the outbreak if a release was planned. I conclude that an intentional release is **unlikely**.
 
 
 In my opinion there is enough evidence to pressure scientific journals to allow the publication of investigations into 1) the possibility of laboratory leak and 2) a synthetic origin for the SARS-CoV-2 genome. 
+
 
 
 
