@@ -2,6 +2,7 @@
 layout: post
 title: Coronavirus origins
 ---
+# Coronavirus origins
 
 ## Background
 
@@ -20,8 +21,6 @@ Wow I thought, could there be something to this story? I have compiled a list of
 Terminology: SARS-CoV-2 (in some early papers called 'Wuhan CoV') is the viral cause of covid-19; Some papers use the name Dr. Zheng-Li Shi, others Dr. Zhengli Shi, these refer to the same person; WIV is an abbreviation for the Wuhan Institute of Virology.
 
 ## Wuhan Institute of Virology (WIV)
-
-![WIV](/images/wif.jpeg)
 
 The only P4 (high security lab) in China is in Wuhan (two in Taiwan), and is located several hundred meters to a few kilometers (I have seen reports vary from 280m to 12km) away from the suspected outbreak [epicenter](https://www.researchgate.net/publication/338993642_A_new_coronavirus_associated_with_human_respiratory_disease_in_China) the Wuhan wet market (though the this association may have been recently [discounted](https://www.researchgate.net/publication/340924249_Is_considering_a_genetic-manipulation_origin_for_SARS-CoV-2_a_conspiracy_theory_that_must_be_censored)). Until last week I had not done any research into the WIV. 
 
