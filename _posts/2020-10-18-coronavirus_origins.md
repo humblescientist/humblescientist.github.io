@@ -172,7 +172,7 @@ considered by the mainstream media and many prominent scientists, or fabricated.
 ## Conclusions
 
 1) The conclusions below are my own, based on a review of the evidence cited above.
-2) To make your own informed conclusion at minimum a review of the key articles marked with a '*' above is recommended. 
+2) To make your own informed conclusion at minimum a review of the key articles in **bold** font above is recommended. 
 
 There are several factors that have changed my thinking on the origin of Covid-19:
 
