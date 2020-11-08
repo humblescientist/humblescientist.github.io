@@ -141,6 +141,8 @@ April 2020. Preprint ["Is considering a genetic-manipulation origin for SARS-CoV
  
 13th May 2020. Unofficial [dataset leaked to 100Rrters](https://100r.org/2020/05/china-coronavirus/) indicating number of Covid-19 drastically higher than official government numbers 
 
+13th May 2020. Preprint. ["In silico comparison of spike protein-ACE2 binding affinities across species; significance for the possible origin of the SARS-CoV-2 virus"](https://arxiv.org/abs/2005.06199) by Piplani, S. et al. The authors use a structural homology modeling approach to characterize the SARSCoV2 S protein and conclude "overall, the data indicates that SARSCoV2 is uniquely adapted to infect humans, raising questions as to whether it arose in nature by a rare chance event or whether its origins lie elsewhere"
+
 19th May 2020. Amplicon_sequences of RaTG13 [published to NCBI](https://db.cngb.org/search/experiment/SRX8357956/) by authors of "A pneumonia outbreak associated with a new coronavirus of probable bat origin" ie Zhou et al. (including Dr. Shi Zheng-Li) 
 
 19th May 2020. Preprint ["Understanding the Origin of ‘BatCoVRaTG13’, a Virus Closest to SARS-CoV-2"](https://www.preprints.org/manuscript/202005.0322/v2) by Rahalkar and Bahulikar. The authors review the limited information around collection of the RaTG13 sample and raise questions requiring further information about RaTG13 data collection and history. 
