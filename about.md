@@ -10,5 +10,9 @@ image: images/quadrants.png
 
 I don't believe in sheepishly accepting 'the truth' when there is sufficient evidence to counter 'the truth'. :-)
 
+You can find additional blog posts by me on medium:
+
+https://humblescientist.medium.com/
+
 
 
