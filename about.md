@@ -12,7 +12,7 @@ I don't believe in sheepishly accepting 'the truth' when there is sufficient evi
 
 You can find additional blog posts by me on medium:
 
-https://humblescientist.medium.com/
+[https://humblescientist.medium.com](https://humblescientist.medium.com)
 
 
 
