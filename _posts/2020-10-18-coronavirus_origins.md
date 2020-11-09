@@ -7,7 +7,7 @@ title: Coronavirus origins
 
 ## Why consider a synthetic origin for SARS-CoV-2?
 
-There are three factors that when considered together, lead to the plausible theory (likely I would argue) that the SARS-C0V-2 genome was engineered at the Wuhan Institute of Virology (WIV).
+There are four factors that when considered together, lead to the plausible theory (likely I would argue) that the SARS-C0V-2 genome was engineered at the Wuhan Institute of Virology (WIV).
 
 1) The WIV is the worlds leading research center for coronavirus research (and specifically betacoronaviruses) and has been actively engaged in gain of function applied research since at least [2008](https://jvi.asm.org/content/jvi/82/4/1899.full.pdf)
 
@@ -15,7 +15,7 @@ There are three factors that when considered together, lead to the plausible the
 
 3) No animal has been as yet identified to be the source of zoonotic transfer of the disease to humans. While it took [7 months to identify masked palm civets as potentially playing a role in transmission of SARS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7114516/) less was known in 2003 about coronaviruses, their natural origin and the role of intermediate species in their spread. 
 
-3) The peculiarities of the SARS-CoV-2 genome: It appears to be remarkably well adapted to humans (Jia et al. 2020, Piplani et al. 2020, Sørensen et al. 2020, Zhan et al, 2020,,); it contains a furin cleavage site not found in SARS-CoV-related coronaviruses (Hoffman, 2020); and [anomalous S-Protein amino acid sequence patterns when compared with related betacoronaviruses.](https://nerdhaspower.weebly.com/).
+4) The peculiarities of the SARS-CoV-2 genome: It appears to be remarkably well adapted to humans (Jia et al. 2020, Piplani et al. 2020, Sørensen et al. 2020, Zhan et al, 2020,,); it contains a furin cleavage site not found in SARS-CoV-related coronaviruses (Hoffman, 2020); and [anomalous S-Protein amino acid sequence patterns when compared with related betacoronaviruses.](https://nerdhaspower.weebly.com/).
 
 The most common paper I have seen cited to support a natural origin theory for CARS-CoV-2 is by [Anderson et al.](https://www.nature.com/articles/s41591-020-0820-9). The first argument the authors make in support of a natural origin is that based on computational analysis, the binding of SARS-C0V-2 to human ACE2 is not ideal and that “this is strong evidence that SARS-CoV-2 is not the product of purposeful manipulation”. I would counter with the question, why must synthetic viruses created in laboratories ideally bind to human receptors? Anderson et. al. then argue that ”the genetic data irrefutably show that SARS-CoV-2 is not derived from any previously used virus backbone”. Firstly arguments by [Nerd](https://nerdhaspower.weebly.com/) and [Sørensen, et al.](https://www.minervanett.no/files/2020/07/13/TheEvidenceNoNaturalEvol.pdf) counter the ‘irrefutable’ claim and secondly, we do not know how viruses the WIV have sampled and sequenced and not publicly released. The RaTG13 genome for example (the closest known relative of SARS-CoV-2), was sequenced in 2018 and was not released until [May 2020](https://db.cngb.org/search/experiment/SRX8357956/) well after the COVID-19 pandemic had first started in Wuhan. 
 In a third argument Anderson et al. write “if genetic manipulation had been performed, one of the several reverse-genetic systems available for betacoronaviruses would probably have been used” and quote a paper [co-authored by none other than Zheng-Li Shi](https://pubmed.ncbi.nlm.nih.gov/30531947/).
