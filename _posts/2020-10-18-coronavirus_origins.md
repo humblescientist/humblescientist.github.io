@@ -5,19 +5,24 @@ title: Coronavirus origins
 
 # Coronavirus origins
 
-## Background
+## Why consider a synthetic origin for SARS-CoV-2?
 
-Several months ago, after I read the Nature article "A pneumonia outbreak associated with a new coronavirus of probable bat origin" by Dr. Zheng-Li Shi's team proposing RaTG13 as close relative for 2019-nCoV (SARS-CoV-2) and their rebuttal of a synthetic origin for the virus I was pretty convinced of a natural origin for Covid-19. 
+There are three factors that when considered together, lead to the plausible theory (likely I would argue) that the SARS-C0V-2 genome was engineered at the Wuhan Institute of Virology (WIV).
 
-All talk I had heard discussing bio-weapons labs I thought to be total garbage and ridiculous conspiracy theories. However last week I stumbled across the blog post "Scientific evidence and logic behind the claim that the Wuhan coronavirus is man-made" by ["Nerd"](https://nerdhaspower.weebly.com/) which shows a significant depth of knowledge in virology and RNA sequencing methods. I started to research further.
+1) The WIV is the worlds leading research center for coronavirus research (and specifically betacoronaviruses) and has been actively engaged in gain of function applied research since at least [2008](https://jvi.asm.org/content/jvi/82/4/1899.full.pdf)
 
-## What piqued my curiosity
+2) The WIV is located ~12km from the Huanan Seafood Market which early in the Covid-19 outbreak was thought to be the epicenter of amplification of the outbreak.
 
-In the blog post ["Scientific evidence and logic behind the claim that the Wuhan coronavirus is man-made"](https://nerdhaspower.weebly.com/) the author outlines the areas of similarity and difference across the genome for two viruses isolated from the current pandemic (Wuhan-Hu-1, 2019-nCoV_USA-AZ1) against two closely related bat coronaviruses (Bat_CoV2C45, Bat_CoV2XC21,SARS) and two SARS coronaviruses (SARS_GZ02, SARS).
+3) No animal has been as yet identified to be the source of zoonotic transfer of the disease to humans. While it took [7 months to identify masked palm civets as potentially playing a role in transmission of SARS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7114516/) less was known in 2003 about coronaviruses, their natural origin and the role of intermediate species in their spread. 
 
-Several anomalies are highlighted and the author interprets that "The virus that SARS-CoV-2 is supposed to have evolved from looks unmistakably artificial — in sections it contains far too many “mutations” that matter but hardly any of the normal noise of silent mutations which always occur naturally alongside the mutations which change the end product. Other sections of the code which ought to mutate quickly are suspiciously identical and unchanged, and didn’t mutate at all. (In the wild there is little selective pressure on something called “E Proteins” and they vary a lot in other coronaviruses. They are already mutating fast in the pandemic but somehow were “frozen” in time in RaTG13.)"
+3) The peculiarities of the SARS-CoV-2 genome: It appears to be remarkably well adapted to humans (Jia et al. 2020, Piplani et al. 2020, Sørensen et al. 2020, Zhan et al, 2020,,); it contains a furin cleavage site not found in SARS-CoV-related coronaviruses (Hoffman, 2020); and [anomalous S-Protein amino acid sequence patterns when compared with related betacoronaviruses.](https://nerdhaspower.weebly.com/).
 
-Wow I thought, could there be something to this story? I have compiled a list of dates of some significant events and added references for you to do your own investigations.
+The most common paper I have seen cited to support a natural origin theory for CARS-CoV-2 is by [Anderson et al.](https://www.nature.com/articles/s41591-020-0820-9). The first argument the authors make in support of a natural origin is that based on computational analysis, the binding of SARS-C0V-2 to human ACE2 is not ideal and that “this is strong evidence that SARS-CoV-2 is not the product of purposeful manipulation”. I would counter with the question, why must synthetic viruses created in laboratories ideally bind to human receptors? Anderson et. al. then argue that ”the genetic data irrefutably show that SARS-CoV-2 is not derived from any previously used virus backbone”. Firstly arguments by [Nerd](https://nerdhaspower.weebly.com/) and [Sørensen, et al.](https://www.minervanett.no/files/2020/07/13/TheEvidenceNoNaturalEvol.pdf) counter the ‘irrefutable’ claim and secondly, we do not know how viruses the WIV have sampled and sequenced and not publicly released. The RaTG13 genome for example (the closest known relative of SARS-CoV-2), was sequenced in 2018 and was not released until [May 2020](https://db.cngb.org/search/experiment/SRX8357956/) well after the COVID-19 pandemic had first started in Wuhan. 
+In a third argument Anderson et al. write “if genetic manipulation had been performed, one of the several reverse-genetic systems available for betacoronaviruses would probably have been used” and quote a paper [co-authored by none other than Zheng-Li Shi](https://pubmed.ncbi.nlm.nih.gov/30531947/).
+
+Given the weak arguments in such a widely cited paper used to ‘disprove’ the ‘synthetic origin myth’, it is unclear to me why a natural origin for SARS-CoV-2 cannot be questioned.
+
+Below I outline the history of coronavirus research, work by the Wuhan Institute of Virology, the outbreak of COVID-19 and include brief summaries of papers and articles questioning the natural origin theory. Given the seriousness of this pandemic I hope the references below will serve as a starting point for you to conduct your own research into the origin of SARS-CoV-2
 
 Terminology: SARS-CoV-2 (in some early papers called 'Wuhan CoV') is the viral cause of covid-19; Some papers use the name Dr. Zheng-Li Shi, others Dr. Zhengli Shi, these refer to the same person; WIV is an abbreviation for the Wuhan Institute of Virology.
 
