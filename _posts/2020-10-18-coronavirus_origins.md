@@ -195,6 +195,7 @@ This is an incredible coincidence and I haven't seen any statistical analysis on
 There are 4 coronavirus sequences most closely related to SARS-CoV-2. 
 
 * RaTG13 published in 2020 but has not been independently verified.
+* RmYN02 announced in [a paper published 8th June 2020 by Zhou et al.](https://www.sciencedirect.com/science/article/abs/pii/S096098222030662X) the dataset for which was [independently investigated and was to be found to be around 50% composed of a single 3’-ETS sequence from Homo Sapiens](https://vixra.org/author/john_f_signus)
 * MP789 isolated in a Malaysian Pangolin in 2019
 * bat-SL-CoVZXC21 identified and owned by the Institute of Military Medicine Nanjing Command
 * bat-SL-CoVZC45 identified and owned by the Institute of Military Medicine Nanjing Command
@@ -219,7 +220,7 @@ Given: the highly coincidental location of the WIV within a few kilometers of th
 
 #### 2) Was the SARS-CoV-2 genome synthetically manipulated?
 
-The documented history of coronavirus research and synthetic manipulation of coronaviruses by the WIV; anomalous nature of the RaTG13 genome and questionable Pangolin virus study methodology; and PLA military ties to ZXC21 and ZC45 which appear highly correlated to the SARS-CoV-2 genome except in the important S protein areas, lead me to conclude a synthetic origin is **likely**.
+The documented history of coronavirus research and synthetic manipulation of coronaviruses by the WIV; remarkably well adapted nature of SARS-CoV-2 to human receptor binding; anomalous nature of the RaTG13 genome and questionable Pangolin virus study methodology; poor quality RaTG13 and RmYN02 datasets; and PLA military ties to ZXC21 and ZC45 which appear highly correlated to the SARS-CoV-2 genome except in the important S protein areas, lead me to conclude a synthetic origin is **very likely**.
 
 #### 3) Was the virus intentionally released as a bioweapon?
 
