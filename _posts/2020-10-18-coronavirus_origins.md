@@ -188,7 +188,7 @@ There are several factors that have changed my thinking on the origin of Covid-1
 
 If we assume a high population density is associated with increased risk of zoonotic transmission and spread, we can say take the ~250 cities in China with a population [> 500,000 people](http://www.demographia.com/db-worldua.pdf) as having increased risk of a coronavirus outbreak (If we relax this assumption, we could include tens of thousands of towns and villages). Out of all these cities, the location where the Covid-19 outbreak occurred was hundreds of meters to several kilometers away from the WIV where Dr. Zhengli Shi registered the RaTG13 genome sequence which is the closest known bat coronavirus to Covid-19.
 
-This is an incredible coincidence and I haven't seen any statistical analysis on the likelihood of this coincidence.
+[Demaneuf and de Maistre (2020)](https://zenodo.org/record/4067919) attempt to estimate the probaility of a lab release in Wuhan and calculate a likelyhood greater than 50% without even taking into account the specific work of the Center for Emerging Infectious Diseases (headed by Zhengli Shi) at the WIV.
 
 ### SARS-CoV-2 relatives
 
